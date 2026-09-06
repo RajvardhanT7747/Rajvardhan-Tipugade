@@ -28,8 +28,7 @@ I am a **Backend-focused Software Engineer** who enjoys building **scalable, rel
 🎓 **B.E. Information Technology**, PICT Pune  
 📊 **CGPA:** 8.9 / 10  
 🏆 **Mastercard CFC 2.0 Finalist**  
-🚀 **Upcoming Summer Intern @ Mastercard** 
-
+💼 **Ex Summer Intern @ Mastercard** 
 💼 **Ex-Software Developer Intern — Innothoughts Systems Pvt Ltd**     
 
 > I believe strong fundamentals and clean system design matter more than buzzwords.
