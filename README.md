@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Engineer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ex-%20Summer%20Intern-Mastercard-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ex%20-Summer%20Intern-Mastercard-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA-500%2B%20Problems-green?style=for-the-badge"/>
 </p>
 
